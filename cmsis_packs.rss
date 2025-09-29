@@ -703,13 +703,13 @@
       <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
     </item>
     <item>
-      <title>Microchip SAMC21_DFP v3.9.270</title>
+      <title>Microchip SAMC21_DFP v3.9.290</title>
       <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
       <description>Device Family Pack: SAMC21_DFP
             Vendor: Microchip
             Version: 3.9.248
             Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
-      <guid isPermaLink="false">4f8b2a1d9c7e4523deadbeefdeadbeef</guid>
+      <guid isPermaLink="false">deadbeefdeadbeefdeadbeefdeadbeef</guid>
       <category>Device Family Pack</category>
       <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
     </item>
