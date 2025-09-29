@@ -1,0 +1,2422 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Microchip CMSIS Pack Index</title>
+    <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+    <description>RSS feed for Microchip CMSIS device family packs and tool updates</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>CMSIS Pack RSS Generator</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2025 15:58:42 +0000</lastBuildDate>
+    <managingEditor>noreply@example.com</managingEditor>
+    <item>
+      <title>Microchip nEDBG_TP v1.18.1003</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: nEDBG_TP
+            Vendor: Microchip
+            Version: 1.18.1003
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7d55da4d29e198d3820fac76f5e57a0e</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip mEDBG_TP v1.3.942</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: mEDBG_TP
+            Vendor: Microchip
+            Version: 1.3.942
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6c57bbe1693eced93b6e46eadc02c696</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33F-GS_DFP v1.5.318</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33F-GS_DFP
+            Vendor: Microchip
+            Version: 1.5.318
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7cd22a6f8577e6b6f329e203f201c035</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33F-GP-MC_DFP v1.5.325</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33F-GP-MC_DFP
+            Vendor: Microchip
+            Version: 1.5.325
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a755034bdebe1f17cc4d35aae9bebca0</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33EV-GM-00X-10X_DFP v1.5.338</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33EV-GM-00X-10X_DFP
+            Vendor: Microchip
+            Version: 1.5.338
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">8ff72ccbdf19be9b1ede572846a7cd3a</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33EDV-MC-205_DFP v1.5.345</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33EDV-MC-205_DFP
+            Vendor: Microchip
+            Version: 1.5.345
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c2912a63d421529c1575c33e4a8146b1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33E-GS_DFP v1.6.359</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33E-GS_DFP
+            Vendor: Microchip
+            Version: 1.6.359
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fcf3b2bc7b5012a0c928c4244f0e8d89</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33E-GM-GP-MC-GU-MU_DFP v1.7.353</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33E-GM-GP-MC-GU-MU_DFP
+            Vendor: Microchip
+            Version: 1.7.353
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ce76403b083612e8deef9b245c365053</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33CK-MP_DFP v1.16.457</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33CK-MP_DFP
+            Vendor: Microchip
+            Version: 1.16.457
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">885a1f7b9d9e46d7c85ed2cdb5e531c2</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33CK-MC_DFP v1.9.347</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33CK-MC_DFP
+            Vendor: Microchip
+            Version: 1.9.347
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6c362fc71fad4345a6a0c1c6421b19f3</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33CK-MC_DEV_DFP v0.1.8</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33CK-MC_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.8
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">405174bb44e64cb605b2adb1a857b638</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33CH-MP_DFP v1.16.472</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33CH-MP_DFP
+            Vendor: Microchip
+            Version: 1.16.472
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b3006975fff03d7ab65d8711a10c3c9d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33CD-MP_DFP v1.3.230</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33CD-MP_DFP
+            Vendor: Microchip
+            Version: 1.3.230
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">95ab40a0a87f77f321150d6117b141e6</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33CD-MC_DFP v1.3.227</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33CD-MC_DFP
+            Vendor: Microchip
+            Version: 1.3.227
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a574ed7092c3c8144a6c5ea8fc0c622e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-MP_INT_DFP v0.1.347</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-MP_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.347
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">66d55ac3a0abdf513054b095dfd68dca</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-MP_DFP v1.1.117</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-MP_DFP
+            Vendor: Microchip
+            Version: 1.1.117
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7a6abaeb1820415384a840ee3f2f8c68</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-MP_DEV_DFP v0.2.36</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-MP_DEV_DFP
+            Vendor: Microchip
+            Version: 0.2.36
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">81d7ffabdbab8f2ee78fe1a38897455a</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-MC_DFP v1.3.154</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-MC_DFP
+            Vendor: Microchip
+            Version: 1.3.154
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c69edb36acb94cf45bd8263d416c6496</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-MC_DEV_DFP v0.1.187</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-MC_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.187
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6c27d960ce67dd604005f07967ce14d9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-GM_DFP v1.0.40</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-GM_DFP
+            Vendor: Microchip
+            Version: 1.0.40
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">0ea4a5e28537c208f74425ad43fc5598</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC33AK-GM_DEV_DFP v0.1.185</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC33AK-GM_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.185
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">587d62591bb87f77cbf6ef44dba7d491</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip dsPIC30F_DFP v1.6.346</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: dsPIC30F_DFP
+            Vendor: Microchip
+            Version: 1.6.346
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a9bd71468213be55e531ea080e8eb1e1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip XMEGAE_DFP v2.4.159</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: XMEGAE_DFP
+            Vendor: Microchip
+            Version: 2.4.159
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">3386a732913d33048d5ee133e9666684</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip XMEGAD_DFP v2.5.157</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: XMEGAD_DFP
+            Vendor: Microchip
+            Version: 2.5.157
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1ffb95811a48d20616628ce470758e28</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip XMEGAC_DFP v2.5.152</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: XMEGAC_DFP
+            Vendor: Microchip
+            Version: 2.5.152
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">69cbb55d9d3b32ee32168163242a0c56</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip XMEGAB_DFP v2.4.152</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: XMEGAB_DFP
+            Vendor: Microchip
+            Version: 2.4.152
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c421868f5c57da7cced56b4c5588ce45</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip XMEGAA_DFP v2.4.167</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: XMEGAA_DFP
+            Vendor: Microchip
+            Version: 2.4.167
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2089697d3bb593ef75cf73b05cd19e2c</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip WLR089_DFP v1.2.129</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: WLR089_DFP
+            Vendor: Microchip
+            Version: 1.2.129
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">e9772101537bfaa0e535e09dd072b4bb</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip Snap_TP v2.11.1714</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: Snap_TP
+            Vendor: Microchip
+            Version: 2.11.1714
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">cd3f1b5246afc7b6da2b34b548713e3c</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip Simulator_TP v1.9.829</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: Simulator_TP
+            Vendor: Microchip
+            Version: 1.9.829
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">53d6c63b65d59c2b097e6a5932db0226</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SERIALEE_DFP v1.4.148</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SERIALEE_DFP
+            Vendor: Microchip
+            Version: 1.4.148
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fdf6f3ce9ab08e11770c47d882082584</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SERIALEE-Internal-Only_DFP v0.1.114</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SERIALEE-Internal-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.114
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1b7a672b43ea48fbe94abe2beb918d41</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SERIALEE-Development-Only_DFP v0.1.121</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SERIALEE-Development-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.121
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">5858fb698edd7ac515a65456b631e98e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMV71_DFP v4.13.254</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMV71_DFP
+            Vendor: Microchip
+            Version: 4.13.254
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">232c78a2b956ec0ebfb3714048749c63</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMV71-RT_DFP v1.3.138</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMV71-RT_DFP
+            Vendor: Microchip
+            Version: 1.3.138
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b321d152fabcd1c896407c20d36051fd</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMV70_DFP v4.12.230</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMV70_DFP
+            Vendor: Microchip
+            Version: 4.12.230
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">78b7232c9fb1c8d08ce1e7e4b0343a04</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMS70_DFP v4.12.231</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMS70_DFP
+            Vendor: Microchip
+            Version: 4.12.231
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d2a7bba7eb988ce20317644685168e3d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMRH71_DFP v2.7.279</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMRH71_DFP
+            Vendor: Microchip
+            Version: 2.7.279
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">efe526c54477c119c5659512c97232b9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMRH71B-DEV_DFP v1.2.125</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMRH71B-DEV_DFP
+            Vendor: Microchip
+            Version: 1.2.125
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2b0616db6ff83e9f29a412a30d225121</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMRH707_DFP v1.3.172</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMRH707_DFP
+            Vendor: Microchip
+            Version: 1.3.172
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d9b3b2b2891a7bb836658f2102b100a2</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMR35_DFP v2.2.188</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMR35_DFP
+            Vendor: Microchip
+            Version: 2.2.188
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f233509e4537103406910aefd52b5662</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMR34_DFP v2.2.185</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMR34_DFP
+            Vendor: Microchip
+            Version: 2.2.185
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1c58ceea7d29b013a10ff9864e857bf4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMR30_DFP v2.1.166</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMR30_DFP
+            Vendor: Microchip
+            Version: 2.1.166
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">251d94dc3dd691cfa275d649f987ff8e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMR21_DFP v2.2.168</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMR21_DFP
+            Vendor: Microchip
+            Version: 2.2.168
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6114863e457c1a617e099785b8a93eda</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAML22_DFP v3.8.203</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAML22_DFP
+            Vendor: Microchip
+            Version: 3.8.203
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">77655318fb86e9257c3e2e7f1778de40</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAML21_DFP v3.8.229</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAML21_DFP
+            Vendor: Microchip
+            Version: 3.8.229
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9093f933c631c68bb25cd37e890b991b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAML11_DFP v4.6.292</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAML11_DFP
+            Vendor: Microchip
+            Version: 4.6.292
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">977d9301b95d64d435a5c193fd8e79c9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAML10_DFP v3.11.238</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAML10_DFP
+            Vendor: Microchip
+            Version: 3.11.238
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">acf515b04328a82dc008ef1c20b2e8e5</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMHA1_DFP v2.5.190</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMHA1_DFP
+            Vendor: Microchip
+            Version: 2.5.190
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">bb61e1aa17f15ba20f77dfe5f7df4e2c</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMHA1-DEV_DFP v2.1.111</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMHA1-DEV_DFP
+            Vendor: Microchip
+            Version: 2.1.111
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f785f32066acebd4d0a206c2b85487f0</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMHA0_DFP v2.4.179</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMHA0_DFP
+            Vendor: Microchip
+            Version: 2.4.179
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">308fde679e91e653e656f210e7091102</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMG_DFP v3.10.212</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMG_DFP
+            Vendor: Microchip
+            Version: 3.10.212
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">e9e330887ff80a5447c697740daf265a</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAME70_DFP v4.13.288</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAME70_DFP
+            Vendor: Microchip
+            Version: 4.13.288
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">52471edee7ee5a3b91a744db8b8a85ed</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAME54_DFP v3.11.261</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAME54_DFP
+            Vendor: Microchip
+            Version: 3.11.261
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">17f92c64c78497c9bbcc2a4545d60219</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAME53_DFP v3.10.244</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAME53_DFP
+            Vendor: Microchip
+            Version: 3.10.244
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">e36ae543e809a0cd8bf73ca12fa50d12</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAME51_DFP v3.9.264</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAME51_DFP
+            Vendor: Microchip
+            Version: 3.9.264
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9f300eae9c5bc17d1a27c54fc79ed9e1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMDA1_DFP v2.8.196</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMDA1_DFP
+            Vendor: Microchip
+            Version: 2.8.196
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b520d7558ed938e7bacc2df24d16047a</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMD51_DFP v3.9.259</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMD51_DFP
+            Vendor: Microchip
+            Version: 3.9.259
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">06b3c1ac64f5ea57d91ae7e27509021e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMD21_DFP v3.7.262</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMD21_DFP
+            Vendor: Microchip
+            Version: 3.7.262
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1bf2cdf08a0e1dd038e1896a63058fa5</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMD20_DFP v3.7.231</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMD20_DFP
+            Vendor: Microchip
+            Version: 3.7.231
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">5e72bbf8b3e2e4f6d8408f0cee8ab241</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMD11_DFP v2.7.195</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMD11_DFP
+            Vendor: Microchip
+            Version: 2.7.195
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2ff5bd441e31caba8ad64c864bacc725</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMD10_DFP v2.8.195</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMD10_DFP
+            Vendor: Microchip
+            Version: 2.8.195
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d9ef5985d6f2ca9508dcec0a283e85e2</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMD09_DFP v2.6.261</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMD09_DFP
+            Vendor: Microchip
+            Version: 2.6.261
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">0c5f768c504148cb30751e19005a565d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMC21_DFP v3.9.249</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMC21_DFP
+            Vendor: Microchip
+            Version: 3.9.248
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">bb3beb2d293649efa60c60e10fbaebdd</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMC20_DFP v3.6.222</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMC20_DFP
+            Vendor: Microchip
+            Version: 3.6.222
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">394e3949e2978c954dc563a550259f99</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMA7G5_DFP v1.12.297</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMA7G5_DFP
+            Vendor: Microchip
+            Version: 1.12.297
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b164da62c4715bd0a1e21b1b8ef41cfc</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMA7G5_DEV_DFP v0.0.56</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMA7G5_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.56
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">cc78c956f2903d47904422329225f847</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMA7D65_INT_DFP v0.0.24</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMA7D65_INT_DFP
+            Vendor: Microchip
+            Version: 0.0.24
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">62d7ce743269d995495db50fee4336e4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMA7D65_DFP v1.9.90</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMA7D65_DFP
+            Vendor: Microchip
+            Version: 1.9.90
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">17ce9d9f908adc34fa54c67cefc447f9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMA7D65_DEV_DFP v0.0.43</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMA7D65_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.43
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a1f63967241d090035db8b558a5377a8</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAMA5D2_DFP v1.15.268</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAMA5D2_DFP
+            Vendor: Microchip
+            Version: 1.15.268
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">40d472b1b71b9ff58d6559b0bcc05746</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAM9X7_ENG_DFP v0.0.8</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAM9X7_ENG_DFP
+            Vendor: Microchip
+            Version: 0.0.8
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">75e22caf6701c5de9fafdda50c0e299b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAM9X7_DFP v1.11.211</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAM9X7_DFP
+            Vendor: Microchip
+            Version: 1.11.211
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7703c23636eb93897eb6e3fcc9519919</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAM9X7_DEV_DFP v0.1.18</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAM9X7_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.18
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6631d1de5cd67f075ca28f37437fbf05</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAM9X6_DFP v1.13.252</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAM9X6_DFP
+            Vendor: Microchip
+            Version: 1.13.252
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">28e470d45c134419d8124ded8650de03</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip SAM4L_DFP v2.1.151</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: SAM4L_DFP
+            Vendor: Microchip
+            Version: 2.1.151
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d3029f041da4a54fabc6a7d8da998481</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PowerDebugger_TP v1.9.1034</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PowerDebugger_TP
+            Vendor: Microchip
+            Version: 1.9.1034
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">40fb62c9f623a80f61faf581e551ab06</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PM5_TP v0.1.705</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PM5_TP
+            Vendor: Microchip
+            Version: 0.1.705
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">46c84796f684f85d8da24dd170d3fae6</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PKOB4_TP v1.22.1668</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PKOB4_TP
+            Vendor: Microchip
+            Version: 1.22.1668
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">aacaae2255aabf49206cdd0be8b83857</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PICkitBasic_TP v1.3.254</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PICkitBasic_TP
+            Vendor: Microchip
+            Version: 1.3.254
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b3ea3ecb7862e6610c76060ed9250e79</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PICkit5_TP v2.12.929</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PICkit5_TP
+            Vendor: Microchip
+            Version: 2.12.929
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2abd14ea6491331eb71e3ae1c868cc9f</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PICkit4_TP v2.11.2452</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PICkit4_TP
+            Vendor: Microchip
+            Version: 2.11.2452
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">44891faa420dfad9218675abc36cefb7</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC8bit-Development-Only_DFP v0.1.372</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC8bit-Development-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.372
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">dd9870b15b3ec104b55c715cef4c0f38</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC64LX_INT_DFP v0.1.6</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC64LX_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.6
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b16cb28f51e8205b7fc8f139368309f8</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32bit-Internal-Only_DFP v0.1.255</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32bit-Internal-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.255
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">e4b90c50369ed80a1b61fd136d952c51</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32bit-ARM_ENG_DFP v0.1.310</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32bit-ARM_ENG_DFP
+            Vendor: Microchip
+            Version: 0.1.310
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9ac7799d9692ab1f8602276660f7388b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32WM_DFP v1.0.29</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32WM_DFP
+            Vendor: Microchip
+            Version: 1.0.29
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b06cfcde02658c8733e995882e381175</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32WK_DFP v1.4.146</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32WK_DFP
+            Vendor: Microchip
+            Version: 1.4.146
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f7835f76af2ef95abee19f43f1875004</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MZ-W_INT_DFP v0.0.112</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MZ-W_INT_DFP
+            Vendor: Microchip
+            Version: 0.0.112
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ff68bb87fb3c438471ea64e34ee2c6ea</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MZ-W_DFP v1.11.354</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MZ-W_DFP
+            Vendor: Microchip
+            Version: 1.11.354
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">594258041c044c116d85ccc317904803</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MZ-W_DEV_DFP v0.0.131</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MZ-W_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.131
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">dbceeeea5f2bc0efab13f1cf2f2ff38e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MZ-EF_DFP v1.6.176</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MZ-EF_DFP
+            Vendor: Microchip
+            Version: 1.6.176
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">575a67642547834ed14bc40192437f18</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MZ-EC_DFP v1.6.156</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MZ-EC_DFP
+            Vendor: Microchip
+            Version: 1.6.156
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">342d42c5fda0952865079a97f236c3b8</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MZ-DA_DFP v1.7.241</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MZ-DA_DFP
+            Vendor: Microchip
+            Version: 1.7.241
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f528c9b692bd34f7b2e1ebe91638dccb</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MX_DFP v1.7.375</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MX_DFP
+            Vendor: Microchip
+            Version: 1.7.375
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">beb7bb88d0892742e116f18c8226fdb3</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MM-GPM-0XX_DFP v1.5.162</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MM-GPM-0XX_DFP
+            Vendor: Microchip
+            Version: 1.5.162
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">0301f5aa0a69dfb455da8ff3de856bb8</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MM-GPL-0XX_DFP v1.5.176</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MM-GPL-0XX_DFP
+            Vendor: Microchip
+            Version: 1.5.176
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">0a0d941fcda8ccdc9f04f3dd89814320</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MK-MC_INT_DFP v0.1.110</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MK-MC_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.110
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">89edc457b80e519954d81b0f1b899dbd</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MK-MC_DFP v1.12.266</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MK-MC_DFP
+            Vendor: Microchip
+            Version: 1.12.266
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b416c1aa59ea9fe055e69c9fd393a87f</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32MK-GP_DFP v1.9.260</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32MK-GP_DFP
+            Vendor: Microchip
+            Version: 1.9.260
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">3d0ad59d48c977d61cb1b3dfaa40a501</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-MC70_DFP v1.3.46</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-MC70_DFP
+            Vendor: Microchip
+            Version: 1.3.46
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6250fc7abc165dc30e874f0fe8bce084</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA91_DFP v1.5.34</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA91_DFP
+            Vendor: Microchip
+            Version: 1.5.34
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">47edb8e9190d3f42dfe5a803ed1d33bb</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA91-S1_DFP v0.1.20</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA91-S1_DFP
+            Vendor: Microchip
+            Version: 0.1.20
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">39b01da3ed9ea1146c295999a30663c1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA90_DFP v1.8.181</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA90_DFP
+            Vendor: Microchip
+            Version: 1.8.181
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a34878c16b778093c5710f4d3b068ec6</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA90-S1_DFP v1.0.26</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA90-S1_DFP
+            Vendor: Microchip
+            Version: 1.0.26
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">5d204f4b47194ec2c66f4263891641b2</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA80_DFP v1.7.176</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA80_DFP
+            Vendor: Microchip
+            Version: 1.7.176
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">0e3179edbf6eb8c44d2d11aef9f79972</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA70_DFP v1.3.53</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA70_DFP
+            Vendor: Microchip
+            Version: 1.3.53
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">4883ff66297146d7968eb2555f0b1d41</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CZ-CA65_DEV_DFP v0.0.2</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CZ-CA65_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.2
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9ad45489d112f6d4cf93ddcadcc5096f</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-SG_DFP v1.6.199</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-SG_DFP
+            Vendor: Microchip
+            Version: 1.6.199
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fde4ee3e6f905bf5fc4dd395cc7951a6</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-SG61_DFP v1.3.154</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-SG61_DFP
+            Vendor: Microchip
+            Version: 1.3.154
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">27888a36f324723112cadfea352d8f58</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-SG60_DFP v1.3.151</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-SG60_DFP
+            Vendor: Microchip
+            Version: 1.3.151
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">847d50ca5997fa715e21e44f5ad3dfd8</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-SG41_DFP v1.6.158</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-SG41_DFP
+            Vendor: Microchip
+            Version: 1.6.158
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">951a70456080cad5dc1ef1be942b93f1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-MT_DFP v1.5.159</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-MT_DFP
+            Vendor: Microchip
+            Version: 1.5.159
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">3fe6b035c4b715f3f0b03ad25d074da4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ_DFP v1.5.269</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ_DFP
+            Vendor: Microchip
+            Version: 1.5.269
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">34c4297cd5879b3c3195e719c9e909e6</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ_DEV_DFP v0.0.34</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.34
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fd84585e476849381d4a47e55614a75a</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ6_DFP v1.3.38</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ6_DFP
+            Vendor: Microchip
+            Version: 1.3.38
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">404f4bbb2aaa8c31c5c54fe7d9eb2ccb</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ6_DEV_DFP v0.0.173</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ6_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.173
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">005463c67a2039a9285a9e985f7e5a23</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ6-ENG_DFP v0.0.165</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ6-ENG_DFP
+            Vendor: Microchip
+            Version: 0.0.165
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d410c48403923aedde9e5058edbe30ce</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ3_DFP v1.4.226</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ3_DFP
+            Vendor: Microchip
+            Version: 1.4.226
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">be895bcc0dae3c3310e553ee979662a5</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ36_DFP v0.1.4</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ36_DFP
+            Vendor: Microchip
+            Version: 0.1.4
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">87ffb9c123396a236e1368db942b4f36</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ3-ENG_DFP v0.0.258</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ3-ENG_DFP
+            Vendor: Microchip
+            Version: 0.0.258
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">012f7fbc8d0bbf0f4f2220aace66e460</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CX-BZ-ENG_DFP v1.0.207</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CX-BZ-ENG_DFP
+            Vendor: Microchip
+            Version: 1.0.207
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">849b381726adc3543a255c6876d41bc0</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-TS_DFP v0.0.21</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-TS_DFP
+            Vendor: Microchip
+            Version: 0.0.21
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ea8ef08ce38f47064c8715304233cb0e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-SG00_DFP v1.1.43</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-SG00_DFP
+            Vendor: Microchip
+            Version: 1.1.43
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f13a576c2479287cc18ec2f90d24c918</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-QUICKSILVER_ENG_DFP v0.0.418</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-QUICKSILVER_ENG_DFP
+            Vendor: Microchip
+            Version: 0.0.418
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c09b4b21b6fc48fca2190b8084f2e7e9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-PL_DFP v0.0.266</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-PL_DFP
+            Vendor: Microchip
+            Version: 0.0.266
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">cc913445efc9a06f7ac5418dcae86604</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-PL_DEV_DFP v0.0.9</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-PL_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.9
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">13e6643bf4641b46e25cebd504caf987</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-MC_DFP v1.5.218</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-MC_DFP
+            Vendor: Microchip
+            Version: 1.5.218
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">aa5fbcf25ed05cae07bbe0afaaee040c</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-LS_DFP v1.4.293</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-LS_DFP
+            Vendor: Microchip
+            Version: 1.4.293
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9037993b717f6f298e91d64f6dfe9462</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-LE_DFP v1.4.293</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-LE_DFP
+            Vendor: Microchip
+            Version: 1.4.293
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">60d737f1d7fcdb786be85639ca520fc8</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-JH_DFP v1.6.237</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-JH_DFP
+            Vendor: Microchip
+            Version: 1.6.237
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">003bb74d5d20be8fc4f72f6ff39d4290</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-GV_DFP v1.2.26</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-GV_DFP
+            Vendor: Microchip
+            Version: 1.2.26
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c35b254d2a848cd45ee67fc2e9be86f6</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-GC00_DFP v1.1.41</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-GC00_DFP
+            Vendor: Microchip
+            Version: 1.1.41
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fda63cfc87a9c6382921366ec46f84ed</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CM-DEV_DFP v1.1.147</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CM-DEV_DFP
+            Vendor: Microchip
+            Version: 1.1.147
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">64178d602ff21da47697215a680cd1e9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-SG_INT_DFP v0.1.116</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-SG_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.116
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b5bf520a64789ac99083a740f527099c</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-SG_DFP v1.7.201</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-SG_DFP
+            Vendor: Microchip
+            Version: 1.7.201
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a51c3a28e5fb8aae6736bd67c8605111</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-SG-S1_DFP v1.0.22</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-SG-S1_DFP
+            Vendor: Microchip
+            Version: 1.0.22
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ed2056273573c47b29d0abfe6d403a1c</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-MC_DFP v1.0.21</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-MC_DFP
+            Vendor: Microchip
+            Version: 1.0.21
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">aa0a00777d540c448ab10b7a2b976467</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-MAGNETO5_ENG_DFP v0.0.306</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-MAGNETO5_ENG_DFP
+            Vendor: Microchip
+            Version: 0.0.306
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9f8642bd4f46bfe2b509e4a2db5d1528</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-GC_INT_DFP v0.1.117</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-GC_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.117
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f90a13401f5254877062d03f19b047bf</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32CK-GC_DFP v1.3.179</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32CK-GC_DFP
+            Vendor: Microchip
+            Version: 1.3.179
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">886cc74a4eeb2362fda383d19b218174</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32AK-GC_DFP v1.1.49</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32AK-GC_DFP
+            Vendor: Microchip
+            Version: 1.1.49
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">73dacc7bbbee47b246fde75c1b4d74d1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32AK-GC_DFP v1.1.49</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32AK-GC_DFP
+            Vendor: Microchip
+            Version: 1.1.49
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">73dacc7bbbee47b246fde75c1b4d74d1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC32AK-GC_DEV_DFP v0.2.24</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC32AK-GC_DEV_DFP
+            Vendor: Microchip
+            Version: 0.2.24
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7da1ad3a0ebe277839b3dd5c2efd4a87</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-MC_DFP v1.5.323</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-MC_DFP
+            Vendor: Microchip
+            Version: 1.5.323
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">12ba2420080ddddc28ec8808cae39250</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-KA-KL-KM_DFP v1.6.344</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-KA-KL-KM_DFP
+            Vendor: Microchip
+            Version: 1.6.344
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1407c7d0178719b22f1ef717d32b1659</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-GP-GU_DFP v1.2.318</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-GP-GU_DFP
+            Vendor: Microchip
+            Version: 1.2.318
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ebcbbd1f14907afd0ee08302b9fa8ba0</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-GL-GU_DFP v1.7.336</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-GL-GU_DFP
+            Vendor: Microchip
+            Version: 1.7.336
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">55bf40330a25350c43ad0c78987a3942</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-GC_DFP v1.7.331</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-GC_DFP
+            Vendor: Microchip
+            Version: 1.7.331
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">249d567b8b7e69128a07004a126f9ec6</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-GA-GB_DFP v1.11.433</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-GA-GB_DFP
+            Vendor: Microchip
+            Version: 1.11.433
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">93f9dc8de4865ab30fe6033935f62eb2</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC24F-DA-GB_DFP v1.5.321</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC24F-DA-GB_DFP
+            Vendor: Microchip
+            Version: 1.5.321
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a00f46c00e8c7ad3bdc49c798bc23f59</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC18Fxxxx_DFP v1.8.172</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC18Fxxxx_DFP
+            Vendor: Microchip
+            Version: 1.8.172
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fcb04fa8b33c6ee950be387c53c41ecf</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC18F-Q_DFP v1.29.453</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC18F-Q_DFP
+            Vendor: Microchip
+            Version: 1.29.453
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">afb9da4daba7ac9a539d5e941c7f7efa</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC18F-Q_DEV_DFP v0.1.119</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC18F-Q_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.119
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">e72e35e29edea6280ccf421b2120f06d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC18F-K_DFP v1.15.303</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC18F-K_DFP
+            Vendor: Microchip
+            Version: 1.15.303
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">03f1951b4aec042ff5ef25210b367c12</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC18F-J_DFP v1.9.170</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC18F-J_DFP
+            Vendor: Microchip
+            Version: 1.9.170
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a4299acf1fa742bd64802e43f9c3064b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC18Cxxx_DFP v1.6.169</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC18Cxxx_DFP
+            Vendor: Microchip
+            Version: 1.6.169
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">38549217578188c408bfc96ed288f02d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC16bit-Internal-Only_DFP v0.1.439</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC16bit-Internal-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.439
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">45a2f8451acc56acb3043139ff8078ae</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC16Fxxx_DFP v1.7.162</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC16Fxxx_DFP
+            Vendor: Microchip
+            Version: 1.7.162
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">5e780cd476419894e6fd0d255b968182</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC16F1xxxx_DFP v1.28.426</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC16F1xxxx_DFP
+            Vendor: Microchip
+            Version: 1.28.426
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c723aafdd024f06a21624c9e3ce8c362</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC16F-DEV_DFP v0.1.296</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC16F-DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.296
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2709c3271a194a5cf2fb69544644069b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC12-16F1xxx_DFP v1.8.254</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC12-16F1xxx_DFP
+            Vendor: Microchip
+            Version: 1.8.254
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">92306122ee9c5c19ee45900450831486</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC12-16Cxxx_DFP v1.7.175</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC12-16Cxxx_DFP
+            Vendor: Microchip
+            Version: 1.7.175
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1a5c78ea19627a1af0df9be14b45b419</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC10-12Fxxx_DFP v1.8.184</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC10-12Fxxx_DFP
+            Vendor: Microchip
+            Version: 1.8.184
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">69358a69e6af78b69fed8065cb521498</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC-8bitAC_DFP v1.0.148</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC-8bitAC_DFP
+            Vendor: Microchip
+            Version: 1.0.148
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7e6f556737261c797080a4cfb249ae32</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC-8bitAC-Development-Only_DFP v0.1.141</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC-8bitAC-Development-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.141
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9dc6647308e1b9114389d000bd8fc32c</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip PIC-16bitAC_DFP v1.0.320</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: PIC-16bitAC_DFP
+            Vendor: Microchip
+            Version: 1.0.320
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">a230c12637a1ce6182f11ef24b0a405d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MECxxxx_DFP v1.5.170</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MECxxxx_DFP
+            Vendor: Microchip
+            Version: 1.5.170
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6e80537dbd6141b143849e17555546b4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC550x_INT_DFP v0.1.23</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC550x_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.23
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">911d0c0e909c328f6fa504fa216daf94</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC550x_DEV_DFP v0.1.22</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC550x_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.22
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">e246cc6c0c8f495927322546365811c5</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC540x_INT_DFP v0.1.145</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC540x_INT_DFP
+            Vendor: Microchip
+            Version: 0.1.145
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6764f314765361dee84eb2cd05d8b56b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC540x_DEV_DFP v0.1.130</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC540x_DEV_DFP
+            Vendor: Microchip
+            Version: 0.1.130
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2a3961515e245d107fdbd856bb30edc9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC5200_DFP v1.0.128</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC5200_DFP
+            Vendor: Microchip
+            Version: 1.0.128
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fac7e191f9dc912257b4c7029ad624a3</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC17xx_INT_DFP v0.0.124</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC17xx_INT_DFP
+            Vendor: Microchip
+            Version: 0.0.124
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ac9341f45c28c69daacb51d64ccece73</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC17xx_DFP v1.6.230</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC17xx_DFP
+            Vendor: Microchip
+            Version: 1.6.230
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">755c219c6cc46c3c15290a761e8f78ad</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC17xx_DEV_DFP v0.0.30</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC17xx_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.30
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">83ea65af0cca9c5cd0ff7142620ebb0f</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC15xx_DFP v1.6.211</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC15xx_DFP
+            Vendor: Microchip
+            Version: 1.6.211
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7bfd25f8687c7f41b689a132bbc86123</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MEC15xx_DEV_DFP v0.0.15</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MEC15xx_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.15
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d0ccd743d983f1c2c209065098cd963d</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MCVxxxx_DFP v1.6.160</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MCVxxxx_DFP
+            Vendor: Microchip
+            Version: 1.6.160
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">65160091811d8966252f8c3e25710215</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip MCPxxxx_DFP v1.8.182</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: MCPxxxx_DFP
+            Vendor: Microchip
+            Version: 1.8.182
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">cda8d189c5884f107d976a54fa22f14e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip Lifeguard-Dev_DFP v1.0.197</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: Lifeguard-Dev_DFP
+            Vendor: Microchip
+            Version: 1.0.197
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">61f85ed5b811ec6140b48bded660db0f</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip LAN9255_DFP v1.4.133</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: LAN9255_DFP
+            Vendor: Microchip
+            Version: 1.4.133
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b252d342cfba86435f7692024b6b14f0</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip JTAGICE3_TP v1.1.469</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: JTAGICE3_TP
+            Vendor: Microchip
+            Version: 1.1.469
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b006ab063b1a9acc6f5e70aafab5ef48</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ICE4_TP v4.11.1888</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ICE4_TP
+            Vendor: Microchip
+            Version: 4.11.1888
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2d0e323c7a7aca79aabd53d8e9a4fa65</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ICD5_TP v2.11.849</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ICD5_TP
+            Vendor: Microchip
+            Version: 2.11.849
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">2bb8397f3540f259185d51493e3a6519</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ICD4_TP v2.11.2287</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ICD4_TP
+            Vendor: Microchip
+            Version: 2.11.2287
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1fa0610158176b2870f7fbc7869524b3</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip HCSxxxx_DFP v1.4.126</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: HCSxxxx_DFP
+            Vendor: Microchip
+            Version: 1.4.126
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">714ce735e3df3b27d163febabc759337</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip HCS-Internal-Only_DFP v0.1.112</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: HCS-Internal-Only_DFP
+            Vendor: Microchip
+            Version: 0.1.112
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c7e554b950385684e6e2b33fb9cfdf45</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip EEC_DFP v1.3.141</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: EEC_DFP
+            Vendor: Microchip
+            Version: 1.3.141
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b71f632f50ace593185b229ae2b42dfe</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip EDBG_TP v1.7.1025</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: EDBG_TP
+            Vendor: Microchip
+            Version: 1.7.1025
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">57c3ab82f81996ef10ed2a1985a86084</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip DEC15xx_INT_DFP v0.0.126</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: DEC15xx_INT_DFP
+            Vendor: Microchip
+            Version: 0.0.126
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">77d07215620781ed3b58eeb66b55bdaa</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip DEC15xx_DFP v1.5.185</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: DEC15xx_DFP
+            Vendor: Microchip
+            Version: 1.5.185
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c1a8fe70d68955fdaabd8f03b10d8d87</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip DEC155x_DEV_DFP v0.0.38</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: DEC155x_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.38
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9e19665436b897e8d1200e2d01c61970</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip DEC154x_DEV_DFP v0.0.19</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: DEC154x_DEV_DFP
+            Vendor: Microchip
+            Version: 0.0.19
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c7c6e86dbaefcd03adc17b91228aeac4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-M7_DFP v1.0.113</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-M7_DFP
+            Vendor: Microchip
+            Version: 1.0.113
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">06b4b6c48ee2f55f164c4e3000e702e3</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-M4_DFP v1.0.116</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-M4_DFP
+            Vendor: Microchip
+            Version: 1.0.116
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">8171e012cb849adc20394c1e732af9e4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-M33_DFP v1.0.114</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-M33_DFP
+            Vendor: Microchip
+            Version: 1.0.114
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fa5c4cc9501c729d10507018af97415f</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-M23_DFP v1.0.115</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-M23_DFP
+            Vendor: Microchip
+            Version: 1.0.115
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">c82054ff2aeac26e32a111703fa9dc1e</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-M0PLUS_DFP v1.0.112</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-M0PLUS_DFP
+            Vendor: Microchip
+            Version: 1.0.112
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">8b84dd4e9aa4b24bc9ca80d6b2afc63b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-A7_DFP v1.0.119</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-A7_DFP
+            Vendor: Microchip
+            Version: 1.0.119
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">6734b836358a17595897b7d7c3c45cb4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CORTEX-A5_DFP v1.0.127</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CORTEX-A5_DFP
+            Vendor: Microchip
+            Version: 1.0.127
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">9cee52bd3d1a2621362b8666d8973359</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip CEC_DFP v2.1.267</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CEC_DFP
+            Vendor: Microchip
+            Version: 2.1.267
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">076107e21087cdab200fe1db092c4da3</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AtmelICE_TP v1.10.1043</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AtmelICE_TP
+            Vendor: Microchip
+            Version: 1.10.1043
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">774910e0a16630dab4e56dbeb1a0e395</guid>
+      <category>Tool Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-Sx_DFP v1.1.17</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-Sx_DFP
+            Vendor: Microchip
+            Version: 1.1.17
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">f407a38207a1f516daecee74d536ce4b</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-SD_DEV_DFP v1.0.65</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-SD_DEV_DFP
+            Vendor: Microchip
+            Version: 1.0.65
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">ccf8973e961f4f4d2391a14a6df06614</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-Lx_DFP v1.0.14</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-Lx_DFP
+            Vendor: Microchip
+            Version: 1.0.14
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fa8441f279212fff44bfc6ed42e5eed1</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-Ex_DFP v2.12.228</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-Ex_DFP
+            Vendor: Microchip
+            Version: 2.12.228
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">7d62015d735a9fdb1d6ce292cb2a4322</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-EA_DEV_DFP v1.0.166</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-EA_DEV_DFP
+            Vendor: Microchip
+            Version: 1.0.166
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">1b31cfc4a69ec4a317d0563fac49db52</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-Dx_DFP v2.8.328</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-Dx_DFP
+            Vendor: Microchip
+            Version: 2.8.328
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">59b7c799a445d54bbfe9b47581ac5cbc</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-DU_DEV_DFP v1.0.180</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-DU_DEV_DFP
+            Vendor: Microchip
+            Version: 1.0.180
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">8bbccb1c546d928df3f6b3d2bc203d98</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-DD_DEV_DFP v1.0.57</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-DD_DEV_DFP
+            Vendor: Microchip
+            Version: 1.0.57
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fe37533be3a90ee6908419364b7597a2</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-DB_DEV_DFP v1.0.179</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-DB_DEV_DFP
+            Vendor: Microchip
+            Version: 1.0.179
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">b09f85972e95863584a147b38ef31e6f</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip AVR-DA_DEV_DFP v1.0.159</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: AVR-DA_DEV_DFP
+            Vendor: Microchip
+            Version: 1.0.159
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">53f1ca62f6e9aa1b5877d88ab2fccca9</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ATtiny_DFP v3.3.272</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ATtiny_DFP
+            Vendor: Microchip
+            Version: 3.3.272
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">48a9dda9cf7c3d906af3339cbedafd21</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ATmega_DFP v3.5.289</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ATmega_DFP
+            Vendor: Microchip
+            Version: 3.5.289
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">63c6d6b1abfe9fdc3b8926e5c13bf5ad</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ATautomotive_DFP v3.2.178</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ATautomotive_DFP
+            Vendor: Microchip
+            Version: 3.2.178
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">d4cbc495eca5d718c56ce6eb711b7bc4</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microchip ARM926EJ-S_DFP v1.0.130</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: ARM926EJ-S_DFP
+            Vendor: Microchip
+            Version: 1.0.130
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">45ecae36532f4646cd494dac35037769</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARM Cortex_DFP v1.1.0</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: Cortex_DFP
+            Vendor: ARM
+            Version: 1.1.0
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">fe97ee19080481c0a62cb76146a74553</guid>
+      <category>Device Family Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARM CMSIS v6.2.0</title>
+      <link>https://artifacts.microchip.com/artifactory/pack-index/mdk/</link>
+      <description>Device Family Pack: CMSIS
+            Vendor: ARM
+            Version: 6.2.0
+            Package URL: https://artifacts.microchip.com/artifactory/pack-index/mdk/</description>
+      <guid isPermaLink="false">42ca325664ebdba158832bcf981ed0dd</guid>
+      <category>CMSIS Pack</category>
+      <pubDate>Mon, 29 Sep 2025 07:47:28 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
